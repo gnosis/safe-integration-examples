@@ -1,7 +1,7 @@
 {
-  "short_name": "Safe App",
-  "name": "Gnosis Safe App Starter",
-  "description": "Describe your Safe App here",
+  "short_name": "Swap Sapp",
+  "name": "Swap Safe App",
+  "description": "Safe App to do a simple Token to Token swap on Uniswap",
   "iconPath": "logo.svg",
   "icons": [
     {
